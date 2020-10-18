@@ -1,0 +1,6 @@
+name: Navids Component
+title: Component Navid
+version: 1.0.0
+start_page: ROOT:inline-text-formatting.adoc
+nav:
+- modules/ROOT/nav.adoc
