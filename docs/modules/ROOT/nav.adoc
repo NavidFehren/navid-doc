@@ -1,1 +1,2 @@
 * xref:index.adoc[Welcome to Navids Demo]
+* xref:index.adoc[Second menu]
