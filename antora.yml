@@ -1,6 +1,5 @@
 name: component-navid
 title: Component Navid
-version: dev
 nav:
 - modules/ROOT/nav.adoc
 - modules/module-one/nav.adoc
